@@ -1,27 +1,27 @@
-# Yurkevich Nadzeya 
+# **Yurkevich Nadzeya**
   
-### CONTACTS: 
+### **CONTACTS**: 
 * e-mail: <nadia-2501@yandex.ru>;
 * tel: +37529-551-56-24;
   
-### DESIRED POSITION:
+### **DESIRED POSITION**:
 > Junior Developer
   
-### SUMMARY:
+### **SUMMARY**:
 * Obtain a Junior Developer position with Epam Company and become a cool front-end developer!
 * Pursue ongoing training and development to improve job knowledge;
 * Very strong attention to detail;
 * Broad knowledge of database definition, design, and configuration;
 * Strong professional communication skills in a work environment.
 
-### SKILLS:
+### **SKILLS**:
 * HTML
 * CSS
 * JS
 * Git
 * Photoshop
 
-### CODE EXAMPLES:
+### **CODE EXAMPLES**:
 
     var link=document.querySelector('#open-modal')
     link.onclick=function(){
@@ -31,15 +31,15 @@
     }; 
   
 
-### EXPERIENCE:
+### **EXPERIENCE**:
 * [https://nadia-y.github.io/diplom/];
 * [https://www.codecademy.com/profiles/net2269025465].
 
-### EDUCATION:
+### **EDUCATION**:
 * BSEU (2004-2010, faculty of marketing, Marketing specialist);
 * Stormnet (2019, course "HTML, CSS, JavaScript”).
 
-### ENGLISH:
+### **ENGLISH**:
 * BSEU;
 * Polyglot (2015, course Pre-Intermediate)
 
